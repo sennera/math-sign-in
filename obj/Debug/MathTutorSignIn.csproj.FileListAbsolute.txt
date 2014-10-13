@@ -1,0 +1,182 @@
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\MathTutorSignIn.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\MathTutorSignIn.pdb
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\Antlr3.Runtime.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.AspNet.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.Core.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\EntityFramework.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.Web.Infrastructure.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\System.Web.Optimization.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\System.Web.Providers.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\WebGrease.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\EntityFramework.xml
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.Core.xml
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.xml
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.xml
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.AspNet.xml
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\obj\Debug\MathTutorSignIn.csprojResolveAssemblyReference.cache
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\obj\Debug\MathTutorSignIn.dll
+c:\users\april\documents\visual studio 2012\Projects\MathTutorSignIn\MathTutorSignIn\obj\Debug\MathTutorSignIn.pdb
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\MathTutorSignIn.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\MathTutorSignIn.pdb
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\Antlr3.Runtime.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.Core.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\EntityFramework.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\System.Web.Optimization.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\System.Web.Providers.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\WebGrease.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\EntityFramework.xml
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.Core.xml
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\obj\Debug\MathTutorSignIn.csprojResolveAssemblyReference.cache
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\obj\Debug\MathTutorSignIn.dll
+C:\Users\Riley2\Downloads\MathTutorSignIn\MathTutorSignIn\obj\Debug\MathTutorSignIn.pdb
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\MathTutorSignIn.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\MathTutorSignIn.pdb
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\Antlr3.Runtime.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.Core.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\EntityFramework.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\System.Web.Optimization.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\System.Web.Providers.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\WebGrease.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\EntityFramework.xml
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.Core.xml
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\obj\Debug\MathTutorSignIn.csprojResolveAssemblyReference.cache
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\obj\Debug\MathTutorSignIn.dll
+C:\Users\Riley2\Desktop\MathTutorSignIn\MathTutorSignIn\obj\Debug\MathTutorSignIn.pdb
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\MathTutorSignIn.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\MathTutorSignIn.pdb
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\Antlr3.Runtime.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.Core.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\EntityFramework.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\System.Web.Optimization.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\System.Web.Providers.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\WebGrease.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\EntityFramework.xml
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.Core.xml
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\obj\Debug\MathTutorSignIn.csprojResolveAssemblyReference.cache
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\obj\Debug\MathTutorSignIn.dll
+C:\Users\April\Documents\Visual Studio 2012\Projects\FinalMathTutorSignIn\MathTutorSignIn\MathTutorSignIn\obj\Debug\MathTutorSignIn.pdb
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\MathTutorSignIn.dll.config
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\MathTutorSignIn.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\MathTutorSignIn.pdb
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\Antlr3.Runtime.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.Core.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\EntityFramework.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\System.Web.Optimization.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\System.Web.Providers.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\WebGrease.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\EntityFramework.xml
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.Core.xml
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\obj\Debug\MathTutorSignIn.csprojResolveAssemblyReference.cache
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\obj\Debug\MathTutorSignIn.dll
+C:\Users\asenner11\Downloads\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\obj\Debug\MathTutorSignIn.pdb
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\MathTutorSignIn.dll.config
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\MathTutorSignIn.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\MathTutorSignIn.pdb
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\Antlr3.Runtime.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\AspNet.ScriptManager.jQuery.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.AspNet.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.Core.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.Consumer.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\EntityFramework.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\Microsoft.ScriptManager.WebForms.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\Microsoft.Web.Infrastructure.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\System.Web.Optimization.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\System.Web.Providers.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\WebGrease.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\EntityFramework.xml
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.Core.xml
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.xml
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.OAuth.Consumer.xml
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.xml
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\bin\DotNetOpenAuth.AspNet.xml
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\obj\Debug\MathTutorSignIn.csprojResolveAssemblyReference.cache
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\obj\Debug\MathTutorSignIn.dll
+H:\MathCenterSignIn\MathTutorSignIn - MathServer 9.29.14\MathTutorSignIn - MathServer\MathTutorSignIn\obj\Debug\MathTutorSignIn.pdb
